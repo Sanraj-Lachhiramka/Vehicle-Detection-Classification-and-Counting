@@ -23,4 +23,4 @@ Vehicle tracking is the process of locating a moving vehicle using a camera. Cap
 1. Aryan Aggarwal
 2. Sanchay Shetty
 3. Snegithan Siva
-4 .Sanraj Lachhiramka
+4. Sanraj Lachhiramka
